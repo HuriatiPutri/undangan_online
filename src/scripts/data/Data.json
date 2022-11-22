@@ -1,0 +1,30 @@
+{
+    "foreign_name" : "Putri Huriati",
+    "date" : "2022-12-10 09:00:00",
+    "wife" : {
+        "name" : "Purna Meriza",
+        "order_to" : "Kedua",
+        "father" : "Roni",
+        "mother" : "Ridha"
+    },
+    "husband" : {
+        "name" : "Purna Meriza",
+        "order_to" : "Kedua",
+        "father" : "Roni",
+        "mother" : "Ridha"
+    },
+    "married" : {
+        "date" : "Senin, 10 Desember 2022",
+        "time" : "09:00 - 10:00",
+        "place" : "Istana Merdeka, Jakarta Pusat"
+    },
+    "reception" : {
+        "date" : "Senin, 10 Desember 2022",
+        "time" : "09:00 - 10:00",
+        "place" : "Istana Merdeka, Jakarta Pusat"
+    },
+    "maps" : "https://maps.google.com/maps?q=masjid%20raya%20kubang&t=&z=13&ie=UTF8&iwloc=&output=embed",
+    "images" : {
+        "cover" : "../../../assets/img/Intersect.png"
+    }
+}
